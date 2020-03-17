@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584310033 source:c:\users\user\desktop\c files\cmpedrawingproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
